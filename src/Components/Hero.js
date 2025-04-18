@@ -38,7 +38,7 @@ export default function Hero() {
             </p>
             <div class="social-links">
               
-              <a href="https://www.linkedin.com/in/sowmiyalkshmi-ganesh/">
+              <a href="https://www.linkedin.com/in/sowmiyalakshmiganesh/">
                 <i class="bx bxl-linkedin"></i>
               </a>
               <a href="https://github.com/sowmiya81">
